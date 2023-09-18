@@ -14,9 +14,8 @@ document.write('<span style="color: red;">Имя: ' + jsonObject.name + '</span>
 document.write('<span style="color: green;">Фамилия: ' + jsonObject.surname + '</span><br>');
 document.write('<span style="color: blue;">Отчество: ' + jsonObject.patronymic + '</span><br>');
 document.write('<span style="color: orange;">Возраст: ' + jsonObject.age + '</span><br>');
-document.write('<span style="color: purple;">Телефон: ' + jsonObject.phone + '</span><br>');
 document.write('<span style="color: brown;">Место рождения: ' + jsonObject.birthplace + '</span><br>');
-
+document.write('<span style="color: purple;">Телефон: ' + jsonObject.phone + '</span><br>');
 
 
 
