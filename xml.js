@@ -28,4 +28,4 @@ document.write('<span style="color: blue;">Фамилие: ' + surname + '<br>')
 document.write('<span style="color: green;">Отчество: ' + patronymic + '<br>');
 document.write('<span style="color: pink;">Возраст: ' + age + '<br>');
 document.write('<span style="color: yellow;">Телефон: ' + phone + '<br>');
-document.write('<span style="color: aqua;">Место рождения: ' + birthplace + '<br>');
+document.write('<span style="color: blue;">Место рождения: ' + birthplace + '<br>');
